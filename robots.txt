@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mustafabsnl.github.io/Tugra_Ofset/sitemap.xml
